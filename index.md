@@ -6,18 +6,21 @@ layout: single
 
 # About
 
-I started my career with a degree in Civil Engineering and found myself working as a civil engineering consultant with a passion for the interplay between civil engineering and the digital world. I also briefly dabbled in structural engineering for a while. Then my professional path steered towards the integration of GIS and spatial analysis, particularly focusing on Flood Consequence Assessment reports. This involved processing and presentation of spatial information in the context of planning advice framework on flooding, particularly Technical Advice Note 15 (TAN15) in Wales.
+Beginning my journey with a Civil Engineering degree, I found myself working as a civil engineering consultant with a passion for connecting traditional engineering with digital technologies. During this time I also briefly delved into structural engineering for a bit. Then my professional path steered towards GIS and its incorporation into Flood Consequence Assessments.
 {: .text-justify}
 
-I currently operate under my own consultancy venture, Obermajer, specialising as a Flood Consequence Assessment consultant. This role capitalises on my expertise in integrating GIS and spatial analysis to deliver comprehensive Flood Consequence Assessment reports, in accordance with TAN15. Discover more about my consultancy services and projects [here](/FCA/).
+## Current Role
+I currently operate under my own consultancy venture specialising as a Flood Risk Consultant. This role allows me to apply my GIS experience to produce clear and well-structured Flood Consequence Assessment reports, in accordance with Technical Advice Note 15 (TAN15). Discover more about the consultancy services [here](/FCA/).
 {: .text-justify}
 
-My interest also grew beyond traditional engineering. I have been dabbling in programming, focusing on Python, while also engaging with C#, AutoLISP and VLISP, among others. I’ve used Python to work with libraries like pandas, numpy, scikit-learn, TensorFlow, mainly in Jupyter Notebooks. Additionally, I've created bespoke tools to streamline civil engineering design processes. See more on this topic [here](/ober-civils-tookit/).
+## Beyond Traditional Engineering
+My interest also grew beyond civil and structural engineering. I have been dabbling in programming, focusing on Python, while also engaging a bit with C#, AutoLISP and VLISP, and others. I’ve used Python to work with libraries like pandas, matplotlib, numpy, scikit-learn, TensorFlow, mainly in Jupyter Notebooks. I've also created bespoke tools to streamline civil engineering design processes. See more on this topic [here](/ober-civils-tookit/).
 {: .text-justify}
 
-I’m always looking to grow and learn more. Currently, I’m keen on enhancing my skills in SQL, bits of R, and diving deeper into TensorFlow and Keras. I’m working on a few side projects that utilise these technologies. One involves utilising Convolutional Neural Networks in drainage pipe defect detection from drainage survey footage. I’m also exploring the use of RNN sequence-to-sequence traduction in binary analysis. I’m generally all about finding smarter ways to solve problems and making things work better.
+I’m currently working on enhancing my skills in SQL, bits of R, diving deeper into Keras/TensorFlow, and all things Python but I'm also open to dive into other languages and subject areas. I’m working on a number of side projects that make use of these technologies. One involves utilising Convolutional Neural Networks in drainage pipe defect detection from drainage survey footage. I’m also exploring the use of RNN sequence-to-sequence traduction in binary analysis.
 {: .text-justify}
 
+## Let's Connect
 I enjoy sharing what I learn and connecting with others who are interested in tech and engineering. If you’re into these things too, feel free to [reach out](mailto:patryk.obermajer@gmail.com). Let’s chat about innovation, technology, and how we can create something great together.
 {: .text-justify}
 
