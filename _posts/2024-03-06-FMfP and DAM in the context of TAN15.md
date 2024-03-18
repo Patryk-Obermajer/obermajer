@@ -86,9 +86,9 @@ Thanks to the application of Climate Change allowance to flood zones, areas whic
 ## Notable Examples of affected areas
 ### Newport
 <p align="center">
-  <img src="\assets\images\ober_civils.png" alt="Alt text 1" width="30%" />
-  <img src="\assets\images\ober_civils.png" alt="Alt text 2" width="30%" style="margin-left: 1.5%; margin-right: 1.5%;" />
-  <img src="\assets\images\ober_civils.png" alt="Alt text 3" width="30%" />
+  <img src="/assets/images/ober_civils.png" alt="Alt text 1" width="30%" />
+  <img src="/assets/images/ober_civils.png" alt="Alt text 2" width="30%" style="margin-left: 1.5%; margin-right: 1.5%;" />
+  <img src="/assets/images/ober_civils.png" alt="Alt text 3" width="30%" />
 </p>
 
 
