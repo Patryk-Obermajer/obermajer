@@ -31,3 +31,20 @@ I enjoy sharing what I learn and connecting with others who are interested in te
 </figure>
 
 <!-- ![Pat juggling](assets/images/pat-juggling.png) -->
+
+<form
+  action="https://formspree.io/f/mjvnerzy"
+  method="POST"
+  
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message" rows="3"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit" class="btn btn--primary">Send</button>
+</form>

@@ -8,13 +8,13 @@ main:
      url: /FCA/
    - title: "Programming Portfolio"
      url: /programming-portfolio/
-   - title: "Posts"
-     url: /posts/
+  #  - title: "Posts"
+  #    url: /posts/
    - title: "Ober Civils Toolkit"
      url: https://Patryk-Obermajer.github.io/help.html
      new_tab: true
-   - title: "CV"
-     url: /resume/
+  #  - title: "CV"
+  #    url: /resume/
   #  - title: "Blog"
   #    url: /collection-archive/
   # - title: "Sitemap"

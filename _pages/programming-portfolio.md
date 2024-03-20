@@ -49,19 +49,20 @@ feature_row3:
     url: "https://github.com/Patryk-Obermajer/Multiplication-Learning-with-Keras"
     btn_label: "Code on GitHub"
     btn_class: "btn--primary"
+
     # tags:
     #     - Civil Engineering Design Tool
     #     - VLISP
     #     - AutoLISP
 
-feature_row4:
-  - image_path: assets/images/QBAR-Calc.png
-    alt: "QBAR Calculator"
-    title: "QBAR Calculator in C#"
-    text: "We're training a simple neural network, with one neuron at both the input and output, to double numbers in NumPy arrays, multiplying them by 2. It obviously learns to do this for any new numbers it encounters, without ever seeing the multiplication formula."
-    url: "https://github.com/Patryk-Obermajer/Multiplication-Learning-with-Keras"
-    btn_label: "Code on GitHub"
-    btn_class: "btn--primary"
+# feature_row4:
+#   - image_path: assets/images/QBAR-Calc.png
+#     alt: "QBAR Calculator"
+#     title: "QBAR Calculator in C#"
+#     text: "We're training a simple neural network, with one neuron at both the input and output, to double numbers in NumPy arrays, multiplying them by 2. It obviously learns to do this for any new numbers it encounters, without ever seeing the multiplication formula."
+#     url: "https://github.com/Patryk-Obermajer/Multiplication-Learning-with-Keras"
+#     btn_label: "Code on GitHub"
+#     btn_class: "btn--primary"
 
 ---
 
