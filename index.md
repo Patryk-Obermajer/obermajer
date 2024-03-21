@@ -35,7 +35,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "About Pat Obermajer"
     excerpt: 'Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools'
-    text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
+    text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and a flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
     url: "/About/"
     btn_label: "Read More About Pat"
     btn_class: "btn--primary"
