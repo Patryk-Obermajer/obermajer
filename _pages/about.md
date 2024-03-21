@@ -16,7 +16,7 @@ I currently operate under my own consultancy venture specialising as a Flood Ris
 {: .text-justify}
 
 ## Beyond Traditional Engineering
-My interests also extend beyond civil and structural engineering. I'm a keen programmer with a focus on Python (I'm a big fan of Jupyter Notebooks), while also engaging a bit with .NET, AutoLISP and VLISP, and others. I’ve worked with Python libraries like beautifulsoup, selenium, pandas, matplotlib, numpy, scikit-learn, and TensorFlow. I've also created bespoke tools to streamline civil engineering design processes. See more on this topic [here](/ober-civils-tookit/).
+My interests also extend beyond civil and structural engineering. I'm a keen programmer with a focus on Python (I'm a big fan of Jupyter Notebooks), while also engaging a bit with .NET, AutoLISP and VLISP, and others. I’ve worked with Python libraries like beautifulsoup, selenium, pandas, matplotlib, numpy, scikit-learn, and TensorFlow. I've also created bespoke tools to streamline civil engineering design processes. See more on this topic [here](https://patryk-obermajer.github.io/help.html).
 {: .text-justify}
 
 I’m currently working on enhancing my skills in SQL, bits of R, diving deeper into Keras/TensorFlow, and all things Python but I'm also open to dive into other languages and subject areas. I’m working on a number of side projects that make use of these technologies. One involves utilising Convolutional Neural Networks in drainage pipe defect detection from drainage survey footage. I’m also exploring the use of RNN sequence-to-sequence traduction in binary analysis.

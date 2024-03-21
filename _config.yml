@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Patryk-Obermajer"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in custom-color"
       color: "black"
       url: "https://github.com/Patryk-Obermajer"
     - label: "Strava"
