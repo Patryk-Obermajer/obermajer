@@ -5,7 +5,7 @@ main:
    - title: "Home"
      url: /
    - title: "About Pat"
-     url: /About/
+     url: /about/
    - title: "Flood Consequence Assessment | GIS"
      url: /FCA/
    - title: "Programming Portfolio"
