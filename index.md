@@ -1,34 +1,90 @@
 ---
-layout: home
+layout: splash
 author_profile: true
-layout: single
+classes: landing
+header:
+  overlay_color: "#0078f4"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header-os-1.svg
+  actions:
+    - label: "See more about FCA Services"
+      url: "/FCA/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Innovating against Flood Risk: Our Focus is to make communities safer from flooding"
+intro: 
+  - excerpt: 'Obermajer Website`type="center"`'
+feature_row:
+  - image_path: assets/images/pat-photo.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/ober_civils.png
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/About/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/ober_civils.png
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_row2:
+  - image_path: /assets/images/pat-photo.jpg
+    alt: "placeholder image 2"
+    title: "About Pat Obermajer"
+    excerpt: 'Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools'
+    text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
+    url: "/About/"
+    btn_label: "Read More About Pat"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/FCA-Services.png
+    alt: "placeholder image 2"
+    title: "Find out about Flood Consequence Assessment Services"
+    excerpt: 'Find out about FCA services and how we can assist with your project`'
+    text: "Find out about FCA services and how we can assist with your project"
+    url: "/FCA/"
+    btn_label: "Read More About FCA Services"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/OBER-CIVILS-SPLASH.png
+    alt: "placeholder image 4"
+    title: "Discover Ober Civils Toolkit"
+    excerpt: 'TDiscover Ober Civils Toolkit - a bespoke civil engineering, earthworks, and drainage design tool for AutoCAD"
+    url: "#test-link'
+    text: "Discover Ober Civils Toolkit - a bespoke civil engineering, earthworks, and drainage design tool for AutoCAD"
+    url: "https://patryk-obermajer.github.io/help.html"
+    btn_label: "More About Ober Civils Toolkit"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/portfolio.png
+    alt: "placeholder image 4"
+    title: "See Pat's Coding Portfolio"
+    excerpt: "Find out more about Pat's coding projects"
+    text: "Find out more about Pat's coding projects"
+    url: "/programming-portfolio/"
+    btn_label: "See Portfolio"
+    btn_class: "btn--primary"
+
 ---
+{% include feature_row id="intro" type="center" %}
+<!-- 
+{% include feature_row %} -->
 
-# About
+{% include feature_row id="feature_row2" type="left" %}
 
-I began my journey with a degree in Civil Engineering and became a civil engineering consultant. My day to day work combines traditional engineering and digital tech. I also briefly explored structural engineering and then my focus steered to Geographic Information System (GIS) within the civil engineering field and Flood Consequence Assessments.
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row5" type="right" %}
+
+
+## Connect
+Feel free to complete the form below and reach out:
 {: .text-justify}
 
-## Current Role
-I currently operate under my own consultancy venture specialising as a Flood Risk Consultant. This role allows me to apply my GIS experience to produce clear and well-structured Flood Consequence Assessment reports, in accordance with Technical Advice Note 15 (TAN15). Discover more about the consultancy services [here](/FCA/).
-{: .text-justify}
-
-## Beyond Traditional Engineering
-My interests also extend beyond civil and structural engineering. I'm a keen programmer with a focus on Python (I'm a big fan of Jupyter Notebooks), while also engaging a bit with .NET, AutoLISP and VLISP, and others. I’ve worked with Python libraries like beautifulsoup, selenium, pandas, matplotlib, numpy, scikit-learn, and TensorFlow. I've also created bespoke tools to streamline civil engineering design processes. See more on this topic [here](/ober-civils-tookit/).
-{: .text-justify}
-
-I’m currently working on enhancing my skills in SQL, bits of R, diving deeper into Keras/TensorFlow, and all things Python but I'm also open to dive into other languages and subject areas. I’m working on a number of side projects that make use of these technologies. One involves utilising Convolutional Neural Networks in drainage pipe defect detection from drainage survey footage. I’m also exploring the use of RNN sequence-to-sequence traduction in binary analysis.
-{: .text-justify}
-
-## Let's Connect
-I enjoy sharing what I learn and connecting with others who are interested in tech and engineering. If you’re into these things too, feel free to [reach out](mailto:patryk.obermajer@gmail.com). Let’s chat about innovation, technology, and how we can create something great together.
-{: .text-justify}
-
-
-<figure>
-  <img src="assets/images/pat-juggling.png" alt="Pat juggling things"/>
-  <figcaption>Be it GIS, engineering, or lines of code... I'm always juggling things.</figcaption>
-</figure>
 
 <!-- ![Pat juggling](assets/images/pat-juggling.png) -->
 

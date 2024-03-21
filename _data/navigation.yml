@@ -2,8 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "Home"
      url: /
+   - title: "About Pat"
+     url: /About/
    - title: "Flood Consequence Assessment | GIS"
      url: /FCA/
    - title: "Programming Portfolio"
