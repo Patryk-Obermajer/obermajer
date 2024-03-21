@@ -10,7 +10,7 @@ header:
     - label: "See more about FCA Services"
       url: "/FCA/"
   caption: "Detailed FCA services with Obermajer"
-excerpt: "Innovating against Flood Risk: Our Focus is to make communities safer from flooding"
+excerpt: "Innovating against Flood Risk: our focus is to make communities safer from flooding"
 intro: 
   - excerpt: 'Obermajer`type="center"`'
 feature_row:
@@ -33,11 +33,11 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/pat-photo.jpg
     alt: "placeholder image 2"
-    title: "About Pat Obermajer"
+    title: "Pat Obermajer"
     excerpt: 'Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools'
     text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and a flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
     url: "/About/"
-    btn_label: "Read More About Pat"
+    btn_label: "Read More About Us"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/FCA-Services.png
@@ -46,7 +46,7 @@ feature_row3:
     excerpt: 'Find out about FCA services and how we can assist with your project`'
     text: "Find out about FCA services and how we can assist with your project"
     url: "/FCA/"
-    btn_label: "Read More About FCA Services"
+    btn_label: "Read More About Our FCA Services"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/OBER-CIVILS-SPLASH.png

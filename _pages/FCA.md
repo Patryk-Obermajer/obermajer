@@ -9,7 +9,7 @@ header:
   caption: "**Flood Consequence Assessment & GIS with Obermajer** <br> Image shows an extract from Flood Map for Planning <br> Contains Natural Resources Wales information © Natural Resources Wales and database right. All rights reserved."
   
 ---
-## Obermajer: Flood Consequence Assessment Consultancy
+## Obermajer: Flood Risk Consultancy
 
 ### Expertise in Flood Consequence Assessments
 We specialise in the creation of comprehensive Flood Consequence Assessment reports (FCAs) to support planning application submissions. We are renowned for delivering detailed, strategically informed reports.

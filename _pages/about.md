@@ -34,6 +34,8 @@ I enjoy sharing what I learn and connecting with others who are interested in te
 
 <!-- ![Pat juggling](assets/images/pat-juggling.png) -->
 
+Feel free to use the form below and drop me a message.
+
 <form
   action="https://formspree.io/f/mjvnerzy"
   method="POST"

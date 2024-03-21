@@ -79,3 +79,22 @@ Below is a small selection of the plethora of scripts, projects, and little repo
 <a name="Quick multiplication"></a>
 {% include feature_row id="feature_row4" type="left" %}
 <a name="QBAR Calc"></a>
+
+Get in touch using the form below if you'd like.
+
+<form
+  action="https://formspree.io/f/mjvnerzy"
+  method="POST"
+  
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message" rows="3"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit" class="btn btn--primary">Send</button>
+</form>
