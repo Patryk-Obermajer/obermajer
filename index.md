@@ -9,10 +9,10 @@ header:
   actions:
     - label: "See more about FCA Services"
       url: "/FCA/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Detailed FCA services with Obermajer"
 excerpt: "Innovating against Flood Risk: Our Focus is to make communities safer from flooding"
 intro: 
-  - excerpt: 'Obermajer Website`type="center"`'
+  - excerpt: 'Obermajer`type="center"`'
 feature_row:
   - image_path: assets/images/pat-photo.jpg
     alt: "placeholder image 1"
