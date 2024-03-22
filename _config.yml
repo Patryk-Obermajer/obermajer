@@ -126,12 +126,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Patryk-Obermajer"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in custom-color"
-      color: "black"
+      icon: "fab fa-fw fa-linkedin-in "
+      icon_color: black
       url: "https://github.com/Patryk-Obermajer"
-    - label: "Strava"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/102995006"
 
 # Site Footer
 footer:

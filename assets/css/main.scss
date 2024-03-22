@@ -14,3 +14,7 @@ search: false
 .custom-color {
     color: black; /* Or use #000 for black */
 }
+
+.fa-linkedin-in {
+    @extend .custom-color; // Inherit the custom color
+}

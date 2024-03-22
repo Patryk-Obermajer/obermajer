@@ -14,7 +14,7 @@ header:
 ### Expertise in Flood Consequence Assessments
 We specialise in the creation of comprehensive Flood Consequence Assessment reports (FCAs) to support planning application submissions. We are renowned for delivering detailed, strategically informed reports.
 {: .text-justify}
-### Services
+### Our Services
 
 <!-- <figure style="float: right; width: 45%; margin-left: 18px; margin-top: 0px; margin-bottom: 30px;">
   <a href="{{ site.baseurl }}/assets/images/Sample-FMfP.png">
@@ -43,11 +43,11 @@ We have a proven track record of successfully demonstrating compliance with the 
   <figcaption>Development Advice Map - Sample</figcaption>
 </figure> -->
 
-We are adept at processing and integrating critical data, including Model Outputs (former Product 5) and Model Reports (aka Product 6) information provided by NRW, into our comprehensive analyses. This integration ensures that our assessments are robust, data-driven, and aligned with the latest practices.
+We are adept at processing and integrating critical data, including Model Outputs (former Product 5) and Model Reports (aka Product 6) information provided by NRW, into our reports in a clear and easy to understand format. This integration ensures that our assessments are robust, data-driven, and aligned with the latest practices.
 
 <br>
 
-### Distinction
+### Our Distinction
 Our strength is in our precision—utilising GIS spatial data analysis, we present flood risk data clearly and accurately. This not only enhances the readability of our reports but also ensures that decision-makers grasp the full scope of the assessed risks.
 {: .text-justify}
 <!-- <figure style="float: right; width: 45%; margin-left: 12px; margin-top: 0px; margin-bottom: 0px;">
@@ -74,14 +74,15 @@ Complete the form below or [reach out via email](mailto:patryk.obermajer@gmail.c
 <form
   action="https://formspree.io/f/mjvnerzy"
   method="POST"
+  
 >
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
   <label>
     Your message:
-    <textarea name="message" rows="3"></textarea>
+    <textarea name="message" rows="3" required></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit" class="btn btn--primary">Send</button>

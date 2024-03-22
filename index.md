@@ -10,7 +10,7 @@ header:
     - label: "See more about FCA Services"
       url: "/FCA/"
   caption: "Detailed FCA services with Obermajer"
-excerpt: "Innovating against Flood Risk: our focus is to make communities safer from flooding"
+excerpt: "Innovating Against Flood Risk: Our Focus is Making Communities Safer from Flooding."
 intro: 
   - excerpt: 'Obermajer`type="center"`'
 feature_row:
@@ -37,7 +37,7 @@ feature_row2:
     excerpt: 'Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools'
     text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and a flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
     url: "/About/"
-    btn_label: "Read More About Us"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/FCA-Services.png
@@ -80,27 +80,3 @@ feature_row5:
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="right" %}
 
-
-## Connect
-Feel free to complete the form below and reach out:
-{: .text-justify}
-
-
-<!-- ![Pat juggling](assets/images/pat-juggling.png) -->
-
-<form
-  action="https://formspree.io/f/mjvnerzy"
-  method="POST"
-  
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message" rows="3"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit" class="btn btn--primary">Send</button>
-</form>

@@ -89,11 +89,11 @@ Get in touch using the form below if you'd like.
 >
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="email" name="email" required>
   </label>
   <label>
     Your message:
-    <textarea name="message" rows="3"></textarea>
+    <textarea name="message" rows="3" required></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit" class="btn btn--primary">Send</button>
