@@ -12,24 +12,15 @@ header:
 ## Obermajer: Flood Risk Consultancy
 
 ### Expertise in Flood Consequence Assessments
-We specialise in the creation of comprehensive Flood Consequence Assessment reports (FCAs) to support planning application submissions. We are renowned for delivering detailed, strategically informed reports.
+We specialise in the creation of comprehensive Flood Consequence Assessments (FCAs) to support planning applications. Our reports are known for precision and clarity.
 {: .text-justify}
 ### Our Services
-
-<!-- <figure style="float: right; width: 45%; margin-left: 18px; margin-top: 0px; margin-bottom: 30px;">
-  <a href="{{ site.baseurl }}/assets/images/Sample-FMfP.png">
-    <img src="{{ site.baseurl }}/assets/images/Sample-FMfP.png" alt="Flood Map for Planning" style="width: 100%; vertical-align: top; margin-bottom: 5px;" />
-  </a>
-  <figcaption>Flood Map for Planning - Sample</figcaption>
-</figure> -->
-
 [![Sample-FMfP.png]({{ site.baseurl }}/assets/images/Sample-FMfP.png){: .align-right width="45%"}]({{ site.baseurl }}/assets/images/Sample-FMfP.png)
 
  
-{: .text-justify}
 
 We bring to the table experience in addressing both highly vulnerable and less vulnerable developments in line with Technical Advice Note 15 (TAN15).
-We have a proven track record of successfully demonstrating compliance with the stringent Acceptability of Consequences and Justification Tests required in the more challenging cases. Our bespoke reports are crafted to meet the expectations of clients and pass rigorous review processes, satisfying both local planning authorities and Natural Resources Wales.
+We have a proven track record of successfully demonstrating compliance with Acceptability of Consequences and Justification Tests required in the more challenging cases. Our reports are crafted to meet the expectations of clients and pass review processes by both local planning authorities and Natural Resources Wales.
 {: .text-justify}
 
 
@@ -43,12 +34,12 @@ We have a proven track record of successfully demonstrating compliance with the 
   <figcaption>Development Advice Map - Sample</figcaption>
 </figure> -->
 
-We are adept at processing and integrating critical data, including Model Outputs (former Product 5) and Model Reports (aka Product 6) information provided by NRW, into our reports in a clear and easy to understand format. This integration ensures that our assessments are robust, data-driven, and aligned with the latest practices.
-
-<br>
+We are adept at processing and integrating Flood Risk Data, including Model Outputs (former Product 5) and Model Reports (also known as Product 6) information provided by NRW, into our reports in a clear and accessible format. This integration ensures that our assessments are robust and aligned with the latest practices. This is especially important since NRW stopped providing site specific Map/Data (also known as Product 4) and shifted the onus of producing flood risk information to the developer and their consultant.
+{: .text-justify}
 
 ### Our Distinction
-Our strength is in our precision—utilising GIS spatial data analysis, we present flood risk data clearly and accurately. This not only enhances the readability of our reports but also ensures that decision-makers grasp the full scope of the assessed risks.
+[![Sample-Hazard.png]({{ site.baseurl }}/assets/images/Sample-Hazard.png){: .align-right width="50%"}]({{ site.baseurl }}/assets/images/Sample-Hazard.png)
+Our strength is in our precision—utilising GIS spatial data analysis, we present Flood Risk Data clearly and accurately. This ensures that decision-makers grasp the full scope of the assessed risks.
 {: .text-justify}
 <!-- <figure style="float: right; width: 45%; margin-left: 12px; margin-top: 0px; margin-bottom: 0px;">
   <a href="{{ site.baseurl }}/assets/images/Sample-Hazard.png">
@@ -57,18 +48,16 @@ Our strength is in our precision—utilising GIS spatial data analysis, we prese
   <figcaption>NRW Model Outputs - 1 in 1000 year event + CC - Hazard Rating</figcaption>
 </figure> -->
 
-[![Sample-Hazard.png]({{ site.baseurl }}/assets/images/Sample-Hazard.png){: .align-right width="45%"}]({{ site.baseurl }}/assets/images/Sample-Hazard.png)
 
-Focused on delivering excellent flood risk consultancy services, combining thorough analysis with clear communication to become a trusted partner for developers seeking expert guidance in confidently navigating flood risk challenges.
+
+We combine in-depth analysis with clear communication, aiming to be the go-to advisor for developers facing flood risk challenges.
 {: .text-justify}
 
 <br>
-<br>
-
 
 ### Connect with us
 
-Complete the form below or [reach out via email](mailto:patryk.obermajer@gmail.com) and discover how we can guide your development project to success, ensuring that every aspect of flood risk is appropriately assessed and managed.
+Complete the form below or [get in touch by email](mailto:FCA@obermajer.co.uk) and discover how we can guide your development project to success, ensuring that every aspect of flood risk is appropriately assessed and managed.
 {: .text-justify}
 
 <form

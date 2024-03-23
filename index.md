@@ -13,26 +13,11 @@ header:
 excerpt: "Innovating Against Flood Risk: Our Focus is Making Communities Safer from Flooding."
 intro: 
   - excerpt: 'Obermajer`type="center"`'
-feature_row:
-  - image_path: assets/images/pat-photo.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets/images/ober_civils.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/About/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/ober_civils.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 
 feature_row2:
   - image_path: /assets/images/pat-photo.jpg
-    alt: "placeholder image 2"
+    alt: "Pat in office environment"
     title: "Pat Obermajer"
     excerpt: 'Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools'
     text: "Pat holds an MEng degree in Civil Engineering. He currently works as a civil engineer and a flood risk consultant. His specialities include: \n - Flood Consequence Assessments \n - Civil Engineering Design \n - Programming, Data, GIS, and creating bespoke software tools"
@@ -41,7 +26,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/FCA-Services.png
-    alt: "placeholder image 2"
+    alt: "Detailed FCA by Obermajer"
     title: "Find out about Flood Consequence Assessment Services"
     excerpt: 'Find out about FCA services and how we can assist with your project`'
     text: "Find out about FCA services and how we can assist with your project"
@@ -50,17 +35,16 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/OBER-CIVILS-SPLASH.png
-    alt: "placeholder image 4"
+    alt: "Find out about Ober Civils Toolkit"
     title: "Discover Ober Civils Toolkit"
-    excerpt: 'TDiscover Ober Civils Toolkit - a bespoke civil engineering, earthworks, and drainage design tool for AutoCAD"
-    url: "#test-link'
+    excerpt: 'Discover Ober Civils Toolkit - a bespoke civil engineering, earthworks, and drainage design tool for AutoCAD'
     text: "Discover Ober Civils Toolkit - a bespoke civil engineering, earthworks, and drainage design tool for AutoCAD"
     url: "https://patryk-obermajer.github.io/help.html"
     btn_label: "More About Ober Civils Toolkit"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/portfolio.png
-    alt: "placeholder image 4"
+    alt: "Pat's Programming Portfolio"
     title: "See Pat's Coding Portfolio"
     excerpt: "Find out more about Pat's coding projects"
     text: "Find out more about Pat's coding projects"

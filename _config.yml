@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:patryk.obermajer@gmail.com"
+      url: "mailto:pat@obermajer.co.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Patryk-Obermajer"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in "
+      icon: "fab fa-fw fa-linkedin-in-square "
       icon_color: black
       url: "https://github.com/Patryk-Obermajer"
 

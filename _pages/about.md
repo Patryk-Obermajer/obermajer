@@ -23,7 +23,7 @@ I’m currently working on enhancing my skills in SQL, bits of R, diving deeper 
 {: .text-justify}
 
 ## Let's Connect
-I enjoy sharing what I learn and connecting with others who are interested in tech and engineering. If you’re into these things too, feel free to [reach out](mailto:patryk.obermajer@gmail.com). Let’s chat about innovation, technology, and how we can create something great together.
+I enjoy sharing what I learn and connecting with others who are interested in tech and engineering. If you’re into these things too, feel free to [get in touch](mailto:patryk.obermajer@gmail.com). Let’s chat about innovation, technology, and how we can create something great together.
 {: .text-justify}
 
 
